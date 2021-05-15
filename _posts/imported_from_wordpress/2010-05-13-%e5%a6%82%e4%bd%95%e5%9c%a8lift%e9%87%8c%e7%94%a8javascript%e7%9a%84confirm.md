@@ -9,7 +9,6 @@ categories:
   - Technology
 tags:
   - ajax
-  - anchor
   - confirm
   - Javascript
   - Lift

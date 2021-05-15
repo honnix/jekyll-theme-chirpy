@@ -2,7 +2,7 @@
 layout: post
 title: "public services behind vpn"
 description: ""
-categories: [technology]
+categories: [Technology]
 tags: [vpn, http, public services, iptables]
 ---
 

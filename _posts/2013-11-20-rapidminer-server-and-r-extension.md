@@ -2,7 +2,7 @@
 layout: post
 title: "RapidMiner Server and R extension"
 description: ""
-categories: [technology]
+categories: [Technology]
 tags: [RapidMinder, R, RapidAnalytics]
 ---
 

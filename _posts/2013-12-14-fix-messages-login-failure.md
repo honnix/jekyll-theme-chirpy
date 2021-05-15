@@ -2,7 +2,7 @@
 layout: post
 title: "Fix Messages Login Failure"
 description: ""
-categories: [technology]
+categories: [Technology]
 tags: [Mac, Message, Facetime, Login, Failure, Serial Number]
 ---
 
