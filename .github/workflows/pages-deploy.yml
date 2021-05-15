@@ -50,7 +50,7 @@ jobs:
           #bash tools/test.sh
 
       - name: Deploy
-        if: {{ github.ref == 'ref/head/master' }}
+        if: github.ref == 'ref/head/master'
         run: |
           if [[ -n $BASE_URL ]]; then
             mv _site$BASE_URL _site-rename
