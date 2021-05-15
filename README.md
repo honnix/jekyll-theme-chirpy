@@ -13,4 +13,3 @@ $ tools/run.sh
 
 * [Jekyll](https://jekyllrb.com/) ecosystem
 * [Chirpy](https://github.com/cotes2020/jekyll-theme-chirpy)
-

@@ -2,7 +2,7 @@
 layout: post
 title: "Homebrew and git svn"
 description: "It doesn't work by default"
-categories: [technology]
+categories: [Technology]
 tags: [Homebrew, git, svn]
 ---
 

@@ -2,8 +2,8 @@
 layout: post
 title: "Sonatype Nexus on Raspberry Pi"
 description: "Sonatype Nexus on Raspberry Pi"
-categories: [technology, raspberry pi, java]
-tags: [sonatype, nexus, raspberry pi, java, maven]
+categories: [Technology, Raspberry Pi, Java]
+tags: [Sonatype, Nexus, Raspberry Pi, Java, maven]
 ---
 
 

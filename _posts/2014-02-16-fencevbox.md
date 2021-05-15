@@ -2,7 +2,7 @@
 layout: post
 title: "fencevbox"
 description: ""
-categories: [technology]
+categories: [Technology]
 tags: [VirtualBox, Cobbler, Power Management, fencing, fencevbox]
 ---
 

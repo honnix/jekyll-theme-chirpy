@@ -3,7 +3,7 @@ layout: post
 title: "Bluetooth keyboard trouble 2.0"
 description: ""
 category: Technology
-tags: [Linux, Gnome, Bluetooth, Keyboard]
+tags: [Linux, Gnome, Bluetooth, keyboard]
 ---
 
 Man, this is disgusting!

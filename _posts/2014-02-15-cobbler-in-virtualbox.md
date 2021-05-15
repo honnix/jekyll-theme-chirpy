@@ -2,7 +2,7 @@
 layout: post
 title: "Cobbler in VirtualBox"
 description: ""
-categories: [technology]
+categories: [Technology]
 tags: [Cobbler, VirtualBox, PXE]
 ---
 
